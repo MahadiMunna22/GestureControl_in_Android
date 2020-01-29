@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GlobalActionBarService</string>
+    <string name="power">power</string>
+    <string name="volume">volume</string>
+    <string name="scroll">scroll</string>
+    <string name="swipe">swipe</string>
+    <string name="tap">tap</string>
+</resources>
